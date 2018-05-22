@@ -1,0 +1,21 @@
+1. Explain the pets and cattle analogy for computers.
+2. What is a snowflake server? Why are they a bad idea?
+3. If a snowflake server is risky, how can we reduce risk through repetition?
+4. How do cattle-like systems help us be more efficient?
+5. How do cattle-like systems help us scale services?
+6. According to this chapter, why do banks have lousy interest rates?
+7. A laptop and a desktop PC are very different. In what way could we treat them
+both as cattle of the same herd?
+8. What is state? What is irreproducible state?
+9. Why is isolating state to particular machines a good thing?
+10. How can beta and production environments end up being different? How can
+we make them as similar as possible?
+11. How is mass-production aided by moving variations to the end?
+12. Sometimes bad customer service is described as being treated like cattle. Yet,
+some of the best companies have practices that assure that everyone receives
+extremely high-quality service in an efficient and mass-produced way. These
+companies are also managing people like cattle. How are the latter companies
+able to achieve this without offending their customers?
+13. Pick a service in your organization that stores a lot of state. Describe how it
+could be implemented using an architecture that isolates state.
+14. What are the benefits of moving variations to the end of the process?
