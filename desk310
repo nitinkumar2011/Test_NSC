@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 This is file
-=======
 1. Explain the pets and cattle analogy for computers.
 2. What is a snowflake server? Why are they a bad idea?
 3. If a snowflake server is risky, how can we reduce risk through repetition?
@@ -22,4 +20,3 @@ able to achieve this without offending their customers?
 13. Pick a service in your organization that stores a lot of state. Describe how it
 could be implemented using an architecture that isolates state.
 14. What are the benefits of moving variations to the end of the process?
->>>>>>> dev
