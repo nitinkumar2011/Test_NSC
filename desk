@@ -1,0 +1,20 @@
+chapter 26 Running a Datacenter 459
+A herd of cattle is a group of many similar animals. If you have a herd of cows
+each one is treated the same. This permits us the benefits of mass-production. All
+cattle receive the same living conditions, the same food, the same medical treatment,
+the same everything. They all have the same personality, or at least are
+treated as if they do. There are no cute outfits. The use of mass-production techniques
+keeps maintenance costs low and improves profits at scale: Saving a dollar
+per cow can multiply to hundreds of thousands in total savings.
+Likewise, machines can be considered cattle when they are similar enough
+that they can all be managed the same way. This can be done at different levels
+of abstraction. For example, perhaps the OS is treated generically even though the
+hardware may comprise any number of virtual or physical machine configurations.
+Or perhaps the machine hardware, OS, and applications are all the same, but the
+data they access is different. This is typical in a large web hosting farm, where
+the only difference is which specific web site is being served by each machine.
+Preferably the systems we deal with are fungible resources: Any one unit can
+substitute for any other.
+A related metaphor is the snowflake. A snowflake is even more unique than a
+pet. It is one of a kind. A system may have started out similar to others, but it was
+customized, modified, and eventually becomes unlike any other system.
